@@ -1,0 +1,3 @@
+export const DRAWER_STATUS = "DRAWER_STATUS";
+export const DEFAULT_DETAILS = "DEFAULT_DETAILS";
+export const SELECTED_MENU = "SELECTED_MENU";

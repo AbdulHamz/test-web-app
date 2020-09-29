@@ -38,7 +38,7 @@ const Home = ({ isDrawerOpened }) => {
         <iframe
           className={classes.htmlContainer}
           title="sample-content"
-          src={"http://www.example.com/"}
+          src={"https://www.example.com/"}
         />
       </Grid>
     </div>
